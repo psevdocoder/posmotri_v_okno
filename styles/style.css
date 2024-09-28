@@ -146,7 +146,6 @@ ol {
 
 .button:hover {
   text-decoration: underline;
-  text-underline-color: #fff;
 }
 
 .button:focus {
